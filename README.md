@@ -36,11 +36,15 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ## 👌🏻 My best projects
 
-🥰 Emojis Search - https://github.com/manon-boiteau/emojis-LeReacteur.git  
-🍩 Deliveroo Clone - (front) https://github.com/manon-boiteau/deliveroo-front-LeReacteur.git || (back) https://github.com/manon-boiteau/deliveroo-back-LeReacteur.git  
-👩🏿‍🎤 Marvel Web App - (front) https://github.com/manon-boiteau/marvel-front-LeReacteur.git || (back) https://github.com/manon-boiteau/marvel-back-LeReacteur  
-👗 Vinted Clone - (front) https://github.com/manon-boiteau/vinted-front-LeReacteur.git || (back) https://github.com/manon-boiteau/vinted-LeReacteur  
-✅ To Do List - https://github.com/manon-boiteau/to-do-list-LeReacteur.git  
+🥰 **Emojis Search** - https://github.com/manon-boiteau/emojis-LeReacteur.git  
+
+🍩 **Deliveroo Clone** - (front) https://github.com/manon-boiteau/deliveroo-front-LeReacteur.git || (back) https://github.com/manon-boiteau/deliveroo-back-LeReacteur.git  
+
+👩🏿‍🎤 **Marvel Web App** - (front) https://github.com/manon-boiteau/marvel-front-LeReacteur.git || (back) https://github.com/manon-boiteau/marvel-back-LeReacteur  
+
+👗 **Vinted Clone** - (front) https://github.com/manon-boiteau/vinted-front-LeReacteur.git || (back) https://github.com/manon-boiteau/vinted-LeReacteur  
+
+✅ **To Do List** - https://github.com/manon-boiteau/to-do-list-LeReacteur.git  
 
 ---
 
