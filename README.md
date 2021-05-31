@@ -2,8 +2,6 @@
 
 ## 👩🏻‍💻 About me
 
----
-
 👀 **Looking for new opportinties**  
 ✨ **Full-Stack JavaScript developer 🔜 july 2021**
 
@@ -16,8 +14,6 @@ At the age of 28, I have chosen to reorient myself towards a profession with a f
 As I enjoyed it a lot and wanted to learn more, I decided to step further by joining a Bootcamp at [Le Reacteur](https://www.lereacteur.io/), to become Full-Stack Web & Mobile Developer.
 
 ## 🔗 Stacks I work with
-
----
 
 ✘ JavaScript  
 ✘ ReactJS  
@@ -36,21 +32,23 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ## 👌🏻 My best projects
 
+### In ReactJS 
+
 🥰 **Emojis Search** - https://github.com/manon-boiteau/emojis-LeReacteur.git  
 
 🍩 **Deliveroo Clone** - (front) https://github.com/manon-boiteau/deliveroo-front-LeReacteur.git || (back) https://github.com/manon-boiteau/deliveroo-back-LeReacteur.git  
 
-👩🏿‍🎤 **Marvel Web App** - (front) https://github.com/manon-boiteau/marvel-front-LeReacteur.git || (back) https://github.com/manon-boiteau/marvel-back-LeReacteur  
+👩🏿‍🎤 **Marvel Web App** - (front) https://github.com/manon-boiteau/marvel-front-LeReacteur.git || (back) https://github.com/manon-boiteau/marvel-back-LeReacteur 
 
+✅ **To Do List** - https://github.com/manon-boiteau/to-do-list-LeReacteur.git 
+
+### In HTML5 & CSS3
+ 
 👗 **Vinted Clone** - (front) https://github.com/manon-boiteau/vinted-front-LeReacteur.git || (back) https://github.com/manon-boiteau/vinted-LeReacteur  
 
-✅ **To Do List** - https://github.com/manon-boiteau/to-do-list-LeReacteur.git  
-
----
+ 
 
 ## 📩 Contact me
-
----
 
 ✏︎ [LinkedIn](https://www.linkedin.com/in/manon-boiteau/)  
 ✏︎ [Mail](mailto:manonboiteau@orange.fr)
