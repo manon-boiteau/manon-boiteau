@@ -32,7 +32,7 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ## 👌🏻 My best projects
 
-### In ReactJS 
+### ReactJS 
 
 🥰 **Emojis Search** - https://github.com/manon-boiteau/emojis-LeReacteur.git  
 
@@ -42,7 +42,7 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ✅ **To Do List** - https://github.com/manon-boiteau/to-do-list-LeReacteur.git 
 
-### In HTML5 & CSS3
+### HTML5 & CSS3
  
 👗 **Vinted Clone** - (front) https://github.com/manon-boiteau/vinted-front-LeReacteur.git || (back) https://github.com/manon-boiteau/vinted-LeReacteur  
 
