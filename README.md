@@ -2,8 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-👀 **Looking for new opportinties - 6 months internship or first job? Be crazy 🤪**  
-✨ **Full-Stack JavaScript developer 🔜 july 2021**
+🔜 **UX-UI Front-End Engineer at WeWard**  
 
 😷 2020: what a year, isn't it?!
 
