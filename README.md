@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-🔜 **UX-UI Front-End Engineer at WeWard**  
+🥾 **UX-UI Front-End Engineer at WeWard**  
 
 😷 2020: what a year, isn't it?!
 
