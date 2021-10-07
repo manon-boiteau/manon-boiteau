@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-🥾 **UX-UI Front-End Engineer at WeWard // React Native**  
+🥾 **UX-UI Front-End Engineer at WeWard - React Native**  
 
 😷 2020: what a year, isn't it?!
 
@@ -15,11 +15,13 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 ## 🔗 Stacks I work with
 
 ✘ JavaScript  
+✘ TypeScript
 ✘ ReactJS  
 ✘ React Native  
-✘ NodeJS  
+✘ Redux
 ✘ HTML5  
 ✘ CSS3  
+✘ NodeJS  
 ✘ GIT  
 ✘ Heroku  
 ✘ MongoDB  
