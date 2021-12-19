@@ -2,6 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
+👀 **Looking for new opportunities to get started in March**  
 🥾 **UX-UI Front-End Engineer at WeWard - React Native**  
 
 😷 2020: what a year, isn't it?!
