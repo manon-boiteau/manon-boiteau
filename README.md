@@ -5,7 +5,6 @@
 👀 **Looking for new opportunities to get started in March**  
 🥾 **UX-UI Front-End Engineer at WeWard - React Native**  
 
-😷 2020: what a year, isn't it?!
 
 Hello, I am Manon and I am doing an internship at WeWard as a Frontend Developer → React Native, React, JavaScript, TypeScript, Redux.
 
