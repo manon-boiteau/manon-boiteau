@@ -15,11 +15,11 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ## 🔗 Stacks I work with
 
-✘ JavaScript  
-✘ TypeScript 
+✘ JavaScript   
+✘ TypeScript   
 ✘ ReactJS  
-✘ React Native  
-✘ Redux 
+✘ React Native    
+✘ Redux   
 ✘ HTML5  
 ✘ CSS3  
 ✘ NodeJS  
