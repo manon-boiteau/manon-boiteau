@@ -28,7 +28,8 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 ✘ MongoDB  
 ✘ Netlify  
 ✘ Postman  
-✘ ExpressVisual Studio Code  
+✘ Express 
+✘ Visual Studio Code   
 ✘ Notion  
 ✘ Figma
 
