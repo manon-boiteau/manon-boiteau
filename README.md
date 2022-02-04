@@ -6,7 +6,7 @@
 🥾 **UX-UI Front-End Engineer at WeWard - React Native**  
 
 
-Hello, I am Manon and I am doing an internship at WeWard as a Frontend Developer → React Native, React, JavaScript, TypeScript, Redux.
+Hello, I am Manon 👋🏻
 
 😷 2021: what a year, right?! 
 
