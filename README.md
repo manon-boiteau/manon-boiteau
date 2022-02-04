@@ -7,11 +7,18 @@
 
 😷 2020: what a year, isn't it?!
 
-Finding your professional path is not an easy thing.
-I worked in hospitilaty management and lately as Event Project Manager, two sectors that are currently at a standstill.
-At the age of 28, I have chosen to reorient myself towards a profession with a future (fingers crossed): Web Developer 🚀 Thanks to [OpenClassrooms](https://openclassrooms.com/fr/) and [freeCodeCamp](https://www.freecodecamp.org/learn/), I started to learn by myself languages such as HTML5, CSS3 and JavaScript.
+Hello, I am Manon and I am doing an internship at WeWard as a Frontend Developer → React Native, React, JavaScript, TypeScript, Redux.
 
-As I enjoyed it a lot and wanted to learn more, I decided to step further by joining a Bootcamp at [Le Reacteur](https://www.lereacteur.io/), to become Full-Stack Web & Mobile Developer.
+😷 2021: what a year, right?! 
+
+Finding your professional path is not an easy thing. 
+I worked in hospitality management and lately as an Event Project Manager, two sectors that are currently at a standstill. 
+
+At the age of 28, I chose to reorient myself towards a profession with a future (fingers crossed): Web & Mobile Developer 🚀 
+
+Thanks to [OpenClassrooms](https://openclassrooms.com/fr/) and [freeCodeCamp](https://www.freecodecamp.org/learn/), I started to learn by myself languages such as HTML5, CSS3 and JavaScript. 
+
+As I enjoyed it a lot and wanted to learn more, I decided to step further by joining a Bootcamp at [Le Reacteur](https://www.lereacteur.io/), to become a Full-Stack Web & Mobile Developer.
 
 ## 🔗 Stacks I work with
 
