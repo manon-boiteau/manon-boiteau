@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About me
 
 👀 **Looking for new opportunities to get started in March**  
-🥾 **UX-UI Front-End Engineer at WeWard - React Native**  
+🥾 **Mobile Frontend Developer at WeWard - React Native / TypeScript**  
 
 
 Hello, I am Manon 👋🏻
@@ -39,7 +39,7 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 ✘ Notion  
 ✘ Figma
 
-## 👌🏻 My best projects
+## 👌🏻 My best projects (school projects)
 
 ### ReactJS 
 
@@ -60,7 +60,7 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 ## 📩 Contact me
 
 ✏︎ [LinkedIn](https://www.linkedin.com/in/manon-boiteau/)  
-✏︎ [Mail](mailto:manonboiteau@orange.fr)
+✏︎ [Mail](mailto:manonboiteaupro@gmail.com)
 <!---
 manon-boiteau/manon-boiteau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
