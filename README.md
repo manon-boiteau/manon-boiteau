@@ -2,7 +2,6 @@
 
 ## 👩🏻‍💻 About me
 
-👀 **Looking for new opportunities to get started in March**  
 🥾 **Mobile Frontend Developer at WeWard - React Native / TypeScript**  
 
 
