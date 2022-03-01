@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-🔜 **Web & Mobile Frontend Developer at Likeo - ReactJS / React Native / TypeScript**  
+🔜 **Web & Mobile Frontend Developer at [Likeo](https://www.likeo.fr/) - ReactJS / React Native / TypeScript**  
 
 
 Hello, I am Manon 👋🏻
