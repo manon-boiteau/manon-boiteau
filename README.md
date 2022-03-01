@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-🥾 **Mobile Frontend Developer at WeWard - React Native / TypeScript**  
+🔜 **Web & Mobile Frontend Developer at Likeo - ReactJS / React Native / TypeScript**  
 
 
 Hello, I am Manon 👋🏻
