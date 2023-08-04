@@ -2,7 +2,9 @@
 
 ## 👩🏻‍💻 About me
 
-🔜 **Web & Mobile Frontend Developer at [Likeo](https://www.likeo.fr/) - ReactJS / React Native / TypeScript**  
+Peviously 
+👉🏻 **Web & Mobile Frontend Developer at [WeWard](https://fr.wewardapp.com/) - ReactJS / React Native / TypeScript**  
+👉🏻 **Web & Mobile Frontend Developer at [Likeo](https://www.likeo.fr/) - ReactJS / NextJS**  
 
 
 Hello, I am Manon 👋🏻
@@ -22,7 +24,8 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ✘ JavaScript   
 ✘ TypeScript   
-✘ ReactJS  
+✘ ReactJS
+✘ NextJS   
 ✘ React Native    
 ✘ Redux   
 ✘ HTML5  
