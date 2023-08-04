@@ -2,10 +2,14 @@
 
 ## 👩🏻‍💻 About me
 
-Peviously 
-👉🏻 **Web & Mobile Frontend Developer at [WeWard](https://fr.wewardapp.com/) - ReactJS / React Native / TypeScript**  
-👉🏻 **Web & Mobile Frontend Developer at [Likeo](https://www.likeo.fr/) - ReactJS / NextJS**  
+Peviously: 
 
+
+👉🏻 **Web & Mobile Frontend Developer at [Likeo](https://www.likeo.fr/) - ReactJS / NextJS** 
+
+👉🏻 **Web & Mobile Frontend Developer at [WeWard](https://fr.wewardapp.com/) - ReactJS / React Native / TypeScript**  
+
+ 
 
 Hello, I am Manon 👋🏻
 
